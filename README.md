@@ -1,2 +1,2 @@
-# Aleo-Tictacto-
+# Aleo-Tictacto
 My Aleo tictacto
